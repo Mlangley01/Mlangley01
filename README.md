@@ -11,9 +11,9 @@ Designing modular, reproducible systems that bridge physical energy harvesting, 
 I build end‑to‑end systems that combine **mechanical prototypes**, **energy conversion experiments**, and **software simulation pipelines**. My work spans physical prototyping (turbines, piezoelectric harvesters, salvage‑based POC), systems design (magnetic field modelling, material stacks), and reproducible software (backtesting, data ingestion, oracles).
 
 Location: Manchester UK  
-Email: **[your.email@example.com]**  
-LinkedIn: **[your-linkedin]**  
-Website: **[your-website]**
+Email: martinjlangley@icloud.com 
+LinkedIn: 
+Website: Your already here dotcom.
 
 ---
 
