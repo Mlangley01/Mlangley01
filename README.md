@@ -1,4 +1,4 @@
-# Martin [LastName] — Systems Engineer and Experimental Builder
+# Martin Langley — Systems Engineer and Experimental Builder
 
 **Quantum Trading Engine** + **Renewable Energy Simulation Stack v2**
 
